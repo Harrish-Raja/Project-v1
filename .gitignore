@@ -9,16 +9,3 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
-
-artifacts/
-database/
-data/
-output/
-processed_data/
-
-*.db
-*.sqlite
-*.sqlite3
-*.pkl
-*.bin
-*.log
