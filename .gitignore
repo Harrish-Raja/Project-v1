@@ -1,0 +1,24 @@
+.env
+.env.*
+.env copy
+!.env.example
+
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+artifacts/
+database/
+data/
+output/
+processed_data/
+
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.bin
+*.log
